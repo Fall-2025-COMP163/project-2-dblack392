@@ -11,7 +11,7 @@ AI Usage: I used ChatGPT to implement classes (hierarchy and etc) as well as cle
 # ============================================================================
 
 class SimpleBattle:
-    """
+""
     Simple battle system provided by the instructor.
     Do NOT change this class. It is only used to test character behavior.
     """
